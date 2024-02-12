@@ -15,7 +15,7 @@
      $actor1 = new Actor();
     $actor1->actorname = "Sharuk Khan";
     $actor1->moviename = "Dunki";
-    $actor1->earnings = 5.14;
+    $actor1->earnings = 8.79;
     
     echo "This year best actor is ". $actor1->actorname."</br>";
     echo "His best movie is ". $actor1->moviename."</br>";
